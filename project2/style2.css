@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section1 {
+    background-color: rgba(255, 255, 255, 0.233);
+    height: 100vh;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    height: 39px;
+    margin-bottom: 20px;
+    color: white;
+    align-items: center;
+    padding: 10px;
+}
+
+.list a {
+    text-decoration: none;
+    color: black;
+    margin-left: 300px;
+}
+
+button {
+    background-color: rgb(228, 170, 94);
+    height: 30px;
+    width: 80px;
+    color: white;
+    margin-left: 80%;
+}
+
+.row {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    gap: 50px;
+}
+
+.col1 {
+    /* width: 979px;
+    height: 433px; */
+    font-size: 85px;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.col1-1 {
+    margin: 10px;
+    text-align: left;
+}
+
+.para {
+    width: 400px;
+    height: 464px;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: justify;
+    padding: 20px;
+}
+
+.read {
+    text-align: left;
+    font-size: 20px;
+}
+
+.col2 {
+    position: relative;
+    padding: 75px;
+}
+
+.img1st {
+    height: 300px;
+    position: absolute;
+    right: 700px;
+    top: 400px;
+}
+
+.img2ed {
+    height: 500px;
+    padding: 120px;
+}
+
+.img3rd {
+    position: absolute;
+    left: -20px;
+    bottom: 40px;
+}
+
+.img4th {
+    position: absolute;
+    top: 110px;
+    right: 350px;
+}
+
+.img5th {
+    position: absolute;
+    top: -20px;
+    left: 40%;
+}

@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.net{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.54),rgba(0, 0, 0, 0.501)), url(./image/netflix.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.box{
+    width: 300px;
+    border: solid 2px black;
+    margin: 0 auto;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.558);
+    padding: 50px;
+}
+
+.main{
+        padding-top: 85px;
+}
+
+h1{
+    text-align: left;
+}
+
+.in input{
+    background-color: rgba(0, 0, 0, 0.329);
+    height: 50px;
+    width: 100%;
+    text-align: left;
+}
+
+.btn{
+    height: 40px;
+    width: 102%;
+    background-color: red;
+    color: white;
+}
+
+.btn1{
+    height: 40px;
+    width: 102%;
+    background-color: rgba(0, 0, 0, 0.326);
+    color: white;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+nav{
+    background-color:lightblue;
+    padding: 3%;
+}
+
+nav a{
+    color:darkcyan;
+    text-decoration: none;
+    margin-left: 5%;
+}
+
+ #section1,
+ #section3,
+ #section5,
+ #section7{
+    background-color: lightpink;
+    color:lavenderblush;
+    margin: 5%;
+ }
+
+ #section2,
+ #section4,
+ #section6,
+ #section8{
+    background-color: lightcyan;
+ }
